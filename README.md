@@ -1,5 +1,6 @@
 # App Super Ninja
-Meu repositório de exercícios
+
+Um app supimpa
 
 ## Para instalar, digite:
 
